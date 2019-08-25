@@ -79,8 +79,8 @@ it('can add the star name and star symbol properly', async() => {
     // 1. create a Star with different tokenId
     await instance.createStar('Another Awesome Star!', starId, {from: accounts[0]})    
     //2. Call the name and symbol properties in your Smart Contract and compare with the name and symbol provided
-    assert.equal(await instance.name.call(), "DG Token");
-    assert.equal(await instance.symbol.call(),"XDG");    
+    assert.equal(await instance.name.call(), "Crypto Star Token");
+    assert.equal(await instance.symbol.call(),"CST");    
 });
 
 it('lets 2 users exchange stars', async() => {
