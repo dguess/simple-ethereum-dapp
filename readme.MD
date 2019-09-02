@@ -7,7 +7,7 @@ A Decentralized Star Notary:
 
  - ERC-721 Token Name: CST
  - ERC-721 Token Symbol: Crypto Star Token
- - Contract Address: [0xA9FD6C957D110e991aA16f3C7870465C3e277753](https://rinkeby.etherscan.io/address/0xA9FD6C957D110e991aA16f3C7870465C3e277753#cod) (Rinkeby)
+ - Contract Address: [0x27b72af2e420830a2dcaf294b39225061fc72206](https://rinkeby.etherscan.io/token/0x27b72af2e420830a2dcaf294b39225061fc72206) (Rinkeby)
  - Truffle Version: v5.0.27
  - OpenZeppelin Version: v2.3.0
 
